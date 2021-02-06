@@ -1,6 +1,6 @@
 # GEOG 458: Map of Airports per State in USA
 
-![Example of Map](/img/airport_map.png)
+![Example](/img/airport_map.png)
 
 ### Introduction
 
